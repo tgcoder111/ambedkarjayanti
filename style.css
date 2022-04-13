@@ -1,0 +1,27 @@
+body{
+    text-align: center;
+    background-color: rgb(219, 219, 53);
+    
+}
+h1{
+    color: rgb(30, 141, 30);
+    font-weight: bold;
+}
+
+img{
+    width: 350px;
+}
+
+h2{
+    color: blue;
+    font-size: 30px;
+    font-family: initial;
+}
+
+h3{
+   color: rgb(235, 34, 34); 
+   font-size: 27px;
+}
+
+
+
